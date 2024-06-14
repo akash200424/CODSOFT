@@ -1,0 +1,7 @@
+
+
+ model evaluation metrices:
+accuracy: 21.15%
+precision: 0.12
+recall: 0.03
+f1: 0.04
